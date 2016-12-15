@@ -1,0 +1,22 @@
+{
+  "name": "loginform",
+  "description": "login form using material design",
+  "main": "index.js",
+  "authors": [
+    "vikash kumar"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/vikashkumar007/material-Design-Login-Form",
+  "private": true,
+  "dependencies": {
+    "angular-material": "^1.1.1",
+    "angular": "^1.6.0",
+    "angular": "#1.5.7",
+    "angular-route": "~1.4.6",
+    "angular-slimscroll": "~1.1.5",
+    "animate.css": "~3.4.0",
+    "jquery": "~2.1.4",
+    "font-awesome": "fontawesome#~4.4.0",
+
+  }
+}
